@@ -1,1 +1,2 @@
 # wessex-ms-site
+publish
